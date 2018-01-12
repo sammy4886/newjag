@@ -1,0 +1,30 @@
+/*slider images*/
+.hero-image-1 {
+    background-image: url(../../assets/img/slider/slide1.png);
+}
+.hero-image-2 {
+    background-image: url(../../assets/img/slider/slide2.png);
+}
+.hero-image-3 {
+    background-image: url(../../assets/img/slider/slide3.png);
+}
+
+/*book a ride image*/
+.apointment-preview-boxed {
+    background-position: center center;
+    background-size: cover;
+    height: 810px;
+    position: relative;
+    top: 100px;
+}
+.man-image-bg {
+    background-image: url(../../assets/img/book_a_ride.png);
+}
+/*contact top img*/
+.contact-img-bg {
+    background-image: url(../../assets/img/contact.png);
+}
+/*about img*/
+.banner-man-bg {
+    background-image: url(../../assets/img/about.png);
+}
