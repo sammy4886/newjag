@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="footer-top-info">
-                        <span class="footer-icons"><i class="fa fa-map-o"></i></span> <p>1828 Johns Drive Glenview, IL 60025</p>
+                        <span class="footer-icons"><i class="fa fa-map-o"></i></span> <p>2202 Kathmandu, Nepal 44600</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="footer-top-info">
-                        <span class="footer-icons"><i class="fa fa-headphones"></i></span> <p>Give us a free call (224) 228-8475</p>
+                        <span class="footer-icons"><i class="fa fa-headphones"></i></span> <p>Give us a free call (977) 228-8475</p>
                     </div>
                 </div>
             </div>
@@ -64,16 +64,16 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="footer-wid">
                                 <h3 class="footer-wid-title">Get In Touch</h3>
-                                <p>1828 Johns Drive Glenview, IL 60025</p>
+                                <p>2202 Kathmandu, Nepal 44600</p>
                                 <div class="address-info">
-                                    <span><i class="fa  fa-phone"></i> (224) 228-8475</span><br>
+                                    <span><i class="fa  fa-phone"></i> (977) 228-8475</span><br>
                                     <span><i class="fa  fa-envelope"></i> support@carservice.com </span>
                                 </div>
                                 <div class="subscribe">
-                                    <form action="index.html">
-                                        <input type="text" placeholder="Type your email" required>
-                                        <button>Subscribe now <i class="fa  fa-paper-plane"></i></button>
-                                    </form>
+                                    {{--<form action="index.html">--}}
+                                        {{--<input type="text" placeholder="Type your email" required>--}}
+                                        {{--<button>Subscribe now <i class="fa  fa-paper-plane"></i></button>--}}
+                                    {{--</form>--}}
                                 </div>
                             </div>
                         </div>

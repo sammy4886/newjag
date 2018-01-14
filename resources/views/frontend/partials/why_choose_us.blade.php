@@ -49,7 +49,7 @@
         </div>
 
         <div class="col-sm-12 col-md-12 text-center">
-            <a href="about-us-dark.html" class="btn theme-btn">about us</a>
+            <a href="{{('about')}}" class="btn theme-btn">about us</a>
         </div>
     </div>
 </div>

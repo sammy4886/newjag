@@ -26,7 +26,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="{{url('team')}}">our team</a></li>
-                                <li><a href="cooming-soon.html">Cooming Soon</a></li>
+                                <li><a href="{{url('')}}">Cooming Soon</a></li>
                                 <li class="dropdown-menu right-top">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Page Two <i class="fa fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
@@ -39,20 +39,20 @@
                             </ul>
                         </li>
                         <li><a href="{{url('about')}}">About</a></li>
-                        <li><a href="our-mission-dark.html">Our Mission</a></li>
+                        <li><a href="{{url('about')}}">Our Mission</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="services-dark.html">Services V.1</a></li>
-                                <li><a href="services-v2-dark.html">Services V.2</a></li>
+                                <li><a href="{{url('about')}}">Services V.1</a></li>
+                                <li><a href="{{url('about')}}">Services V.2</a></li>
 
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#">Gallery</a>
+                            <a href="{{url('/gallery')}}">Gallery</a>
 
                         </li>
-                        <li><a href="appointment-dark.html">Appointment</a></li>
+                        <li><a href="{{url('contact')}}">Appointment</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
