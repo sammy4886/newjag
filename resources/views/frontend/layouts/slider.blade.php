@@ -26,11 +26,11 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-6">
-                                    <h1>With over 25 years of experience in auto services work</h1>
-                                    <p>Value is a service of trust. The trust your customers have in you. The trust you have in your people, strategies and systems. And always delivering on expectation.</p>
-                                    <a class="btn theme-btn" href="appointment-dark.html">make an appointment</a>
-                                </div>
+                                {{--<div class="col-md-6">--}}
+                                    {{--<h1>With over 25 years of experience in auto services work</h1>--}}
+                                    {{--<p>Value is a service of trust. The trust your customers have in you. The trust you have in your people, strategies and systems. And always delivering on expectation.</p>--}}
+                                    {{--<a class="btn theme-btn" href="appointment-dark.html">make an appointment</a>--}}
+                                {{--</div>--}}
                             </div>
                         </div>
                     </div>
