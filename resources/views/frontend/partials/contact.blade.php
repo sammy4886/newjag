@@ -11,7 +11,7 @@
                         <i class="ion-ios-location-outline"></i>
                     </div>
                     <div class="media-body">
-                        <h4>1828 Johns Drive Glenview, IL 60025</h4>
+                        <h4>2202 Kathmandu, Nepal 44600</h4>
                     </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@
                         <i class="ion-ios-telephone-outline"></i>
                     </div>
                     <div class="media-body">
-                        <h4>(224) 228-8475 <br> (224) 228-8476</h4>
+                        <h4>(977) 228-8475 <br> (977) 228-8476</h4>
                     </div>
                 </div>
             </div>

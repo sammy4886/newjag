@@ -10,19 +10,10 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-Route::get('/', function () {
-    return view('frontend.partials.home');
-});
-Route::get('/contact', function () {
-    return view('frontend.partials.contact');
-});
-Route::get('/team', function () {
-    return view('frontend.partials.team');
-});
-Route::get('/about', function () {
-    return view('frontend.partials.about');
-});
-Route::get('/two_wheeler', function () {
-    return view('frontend.partials.two_wheeler');
-});
+Route::get('/', 'FrontEndController@home');
+Route::get('/home', 'FrontEndController@home');
+Route::get('/contact', 'FrontEndController@contact');
+Route::get('/team', 'FrontEndController@team');
+Route::get('/about', 'FrontEndController@about');
+Route::get('/two_wheeler', 'FrontEndController@two_wheeler');
+Route::get('/gallery', 'FrontEndController@gallery');
