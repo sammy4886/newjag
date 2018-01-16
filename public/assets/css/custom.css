@@ -1,14 +1,31 @@
 /*slider images*/
 .hero-image-1 {
-    background-image: url(../../assets/img/slider/slide1.png);
-}
-.hero-image-2 {
-    background-image: url(../../assets/img/slider/slide2.png);
-}
-.hero-image-3 {
-    background-image: url(../../assets/img/slider/slide3.png);
-}
+        background-image: url(../../assets/img/slider/slide3.png);
+    }
 
+    .hero-image-2 {
+        background-image: url(../../assets/img/slider/slide4.png);
+    }
+
+    .hero-image-3 {
+        background-image: url(../../assets/img/slider/slide5.png);
+    }
+
+@media only screen and (max-width: 767px) {
+
+
+    .homepage-slides-wrapper .hero-image-1 {
+        background-image: url(../../assets/img/mslider/slide3.png);
+    }
+
+    .hero-image-2 {
+        background-image: url(../../assets/img/mslider/slide4.png);
+    }
+
+    .hero-image-3 {
+        background-image: url(../../assets/img/mslider/slide3.png);
+    }
+}
 /*book a ride image*/
 .apointment-preview-boxed {
     background-position: center center;
@@ -27,4 +44,40 @@
 /*about img*/
 .banner-man-bg {
     background-image: url(../../assets/img/about.png);
+}
+.slide-bg-1 {
+    background-image: url(../../assets/img/slider/slide1.png);
+
+}
+.slide-bg-2 {
+    background-image: url(../../assets/img/slider/slide2.png);
+
+}
+.slide-bg-3 {
+    background-image: url(../../assets/img/slider/slide3.png);
+
+}
+/*our mission hex image*/
+.hexagon {
+    position: relative;
+    width: 215px;
+    height: 124.13px;
+    margin: 62.07px 0;
+    background-image: url(../../assets/img/hex3.png);
+    background-size: auto 248.2606px;
+    background-position: center;
+    float: left;
+}
+.hexagon:first-child {
+    background-image: url(../../assets/img/hex2.png);
+}
+.hexagon:last-child {
+    margin-left: 107px;
+    margin-top: -1px;
+    background-image: url(../../assets/img/hex1.png);
+}
+
+/*count img*/
+.count-bg {
+    background-image: url(../../assets/img/count.png);
 }
