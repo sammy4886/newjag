@@ -9,7 +9,6 @@
             </div>
         </div>
     </div>
-
     <div class="container">
         <div class="row">
             <div class="col-md-4">
@@ -67,7 +66,8 @@
             </div>
         </div>
     </div>
-<br><br>
+</div>
+
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
                 <div class="section-title text-center">
@@ -114,9 +114,6 @@
                 </div>
             </div>
         </div>
-    </div>
 
 
-
-</div>
 <!-- End Services Area -->

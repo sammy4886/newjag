@@ -1,6 +1,10 @@
 @extends('frontend.main')
 @section('content')
+    <div class="container" style="width: 100%">
 @include('frontend.partials.products')
+    </div>
+    <br>
+    <br>
 <div class="col-md-6 col-md-offset-3">
     <div class="section-title text-center">
         <h2><span>Our </span> Mission</h2>
@@ -9,7 +13,7 @@
 </div>
 
 <!-- Start Top Banner Area -->
-<div class="content-block-area gray-bg our-services" style="background-color: white">
+<div class="content-block-area gray-bg our-services">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-7">
